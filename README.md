@@ -1,6 +1,4 @@
 # Weather-Web-App
-
-<details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -12,7 +10,6 @@
     <li><a href="###installation">Installation</a></li>
     <li><a href="#license">License</a></li>
   </ol>
-</details>
 
 ## About The Project
 <img src="https://github.com/nagarajpandith/weather-app/blob/main/images/Screenshot%202021-08-29%20at%208.15.21%20PM-min.png">
@@ -32,6 +29,6 @@ To get a local copy up and running, just Clone the repo
    ```
 and fire up the Local Development server using [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
    
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
